@@ -18,48 +18,8 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Seyed Mohammad Bigonah Ghalehsari
+<!DOCTYPE html> <html lang="en"> <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>Seyed Mohammad Bigonah Ghalehsari</title> </head> <body> <h1>Seyed Mohammad Bigonah Ghalehsari</h1> <h2>PhD Candidate</h2> <p>(Sep. 2022 – now), Civil Engineering (Disaster Prevention),<br> Harbin Institute of Technology, Harbin, China<br> Supervisor: Professor Shuang Li</p> <h2>Master of Science</h2> <p>(Sep. 2014 – Jan. 2018), Civil Engineering (Earthquake Engineering),<br> School of Civil Engineering, Iran University of Science & Technology, Tehran, Iran<br> Title of dissertation: New Techniques for Retrofitting of RC Frame against Progressive Collapse.<br> Supervisor: Dr. MohsenAli Shayanfar.</p> <h2>Bachelor of Science</h2> <p>(Feb. 2012 – Sep. 2014), Civil Technology Civil Engineering,<br> Tabari Institute of Higher Education, University of Mazandaran province, Iran.</p> <h2>Associate Degree</h2> <p>(Jan. 2010 – Feb. 2012), Construction-General Construction Affairs,<br> Technical and vocational University, Mazandaran, Iran.</p> <h2>Journal Papers</h2> <ol> <li>Ali, B.H., E. Mete Güneyisi, and M. Bigonah, Assessment of Different Retrofitting Methods on Structural Performance of RC Buildings against Progressive Collapse. Applied Sciences, 2022. 12(3): p. 1045. (Published)</li> <li>M. Bigonah, H. Soltani, M. Zabihi-Samani, and M.A. Shayanfar, “Performance Evaluation of the Effects of All Types of Infill against the Progressive Collapse of Reinforced Concrete Frames, "Asian Journal of Civil Engineering ,2020. (Published)</li> <li>S. Esmaeili, H. Akbari Aghdam, M. Motififard, SS. Samandari, AH. Montazeran1, M. Bigonah, E. Sheikhbahaei, A. Khandan “A porous polymeric–hydroxyapatite scaffold used for femur fractures treatment: fabrication, analysis, and simulation” journal European Journal of Orthopaedic Surgery & Traumatology, 2020. (Published)</li> <li>M.A. Shayanfar, M. Bigonah, and D. Sobhani, M. Zabihi-Samani, “The Effectiveness Investigation of New Retrofitting Techniques for RC Frame against Progressive Collapse,” Civil Engineering Journal, 2018. (Published)</li> <li>M.A. Shayanfar, D. Sobhani, and M. Bigonah, B. Babakhani, “Simulation and Evaluation of Corrosion Effects on the Reduction of Column Capacity” Mapta Journal of Architecture, Urbanism and Civil Engineering (MJAUCE), 2018. (Published)</li> </ol> <h2>Research Techniques/ Research Interest</h2> <ul> <li>Progressive Collapse.</li> <li>Performance Base Design.</li> <li>Tall Buildings (Analysis & Design).</li> <li>Explosion Effect on Structures.</li> <li>Deep Learning.</li> <li>Disaster Prevention.</li> <li>Nonlinear Dynamic Analysis of Structures.</li> <li>Seismic Retrofitting of Structures.</li> <li>Structural Vibration Controls.</li> <li>Evacuation.</li> <li>Network Resilience.</li> </ul> <h2>Software Skills</h2> <ul> <li>FEM: Ls_Dyna, Abaqus, Sap2000, Etabs, Safe, CsiBridge, Robot Structural Analysis.</li> <li>Earthquake: Opensees, Perform3D, SeismoSignal, SeismoMatch, SeismoStruct SeismoBuild, Opensees Navigator, NONLIN, ZEUS-NL.</li> <li>Programming Languages: MATLAB, TCL, Python, VBA Tools, Visual Studio.</li> <li>CAD: Revit Structure, Tekla Structures.</li> <li>Other: Mathcad, Easy Fit, FRP-Analysis, FRP Lamella.</li> </ul</body> </html>
 
-Currently, I am a PhD candidate in Civil Engineering, specializing in Disaster Prevention, at Harbin Institute of Technology in Harbin, China. Under the guidance of Professor Shuang Li, I am conducting research on seismic resilience methods, with a particular focus on the rapid assessment of structural systems and evacuation strategies. My work involves developing techniques to quickly evaluate the performance of buildings and infrastructure during seismic events. Additionally, I am actively exploring methods to improve evacuation procedures, aiming to enhance the safety and efficiency of evacuating individuals from disaster-prone areas.
-
-PhD Candidate (Sep. 2022 – now), Civil Engineering (Disaster Prevention),
-Harbin Institute of Technology, Harbin, China
-• Supervisor: Professor Shuang Li
-
-Master of Science (Sep. 2014 – Jan. 2018), Civil Engineering (Earthquake Engineering), School of Civil Engineering, Iran University of Science & Technology, Tehran, Iran
-• Title of dissertation: New Techniques for Retrofitting of RC Frame against Progressive Collapse.
-• Supervisor: Dr. MohsenAli Shayanfar.
-
-Bachelor of Science (Feb. 2012 – Sep. 2014), Civil Technology Civil Engineering, Tabari Institute of Higher Education, University of Mazandaran province, Iran.
-
-Associate Degree (Jan. 2010 – Feb. 2012), Construction-General Construction Affairs, Technical and vocational University, Mazandaran, Iran.
-
-Journal Papers
-[1] Ali, B.H., E. Mete Güneyisi, and M. Bigonah, Assessment of Different Retrofitting Methods on Structural Performance of RC Buildings against Progressive Collapse. Applied Sciences, 2022. 12(3): p. 1045. (Published)
-[2] M. Bigonah, H. Soltani, M. Zabihi-Samani, and M.A. Shayanfar, “Performance Evaluation of the Effects of All Types of Infill against the Progressive Collapse of Reinforced Concrete Frames, "Asian Journal of Civil Engineering ,2020. (Published)
-[3] S. Esmaeili, H. Akbari Aghdam, M. Motififard, SS. Samandari, AH. Montazeran1, M. Bigonah, E. Sheikhbahaei, A. Khandan “A porous polymeric–hydroxyapatite scaffold used for femur fractures treatment: fabrication, analysis, and simulation” journal European Journal of Orthopaedic Surgery & Traumatology, 2020. (Published)
-[4] M.A. Shayanfar, M. Bigonah, and D. Sobhani, M. Zabihi-Samani, “The Effectiveness Investigation of New Retrofitting Techniques for RC Frame against Progressive Collapse,” Civil Engineering Journal, 2018. (Published)
-[5] M.A. Shayanfar, D. Sobhani, and M. Bigonah, B. Babakhani, “Simulation and Evaluation of Corrosion Effects on the Reduction of Column Capacity” Mapta Journal of Architecture, Urbanism and Civil Engineering (MJAUCE), 2018. (Published)
-
-RESEARCH TECHNIQUES/ RESEARCH INTEREST
-
-• Progressive Collapse.
-• Performance Base Design.
-• Tall Buildings (Analysis & Design).
-• Explosion Effect on Structures.
-• Deep Learning
-• Disaster Prevention
-• Nonlinear Dynamic Analysis of Structures.
-• Seismic Retrofitting of Structures.
-• Structural Vibration Controls.
-• Evacuation
-• Network Resilience
-
-SOFTWARE SKILLS
-• FEM: Ls_Dyna, Abaqus, Sap2000, Etabs, Safe, CsiBridge, Robot Structural Analysis.
-• Earthquake: Opensees, Perform3D, SeismoSignal, SeismoMatch, SeismoStruct SeismoBuild, Opensees Navigator, NONLIN, ZEUS-NL.
-• Programming Languages: MATLAB, TCL, Python, VBA Tools, Visual Studio
-• CAD: Revit Structure, Tekla Structures.
 • Other: Mathcad, Easy Fit, FRP-Analysis, FRP Lamella.
 
 EXPERIENCE
