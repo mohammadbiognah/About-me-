@@ -1,4 +1,15 @@
-# Seyed Mohammad Bigonah Ghalehsari
+# Mohammad Bigonah 
+
+## About Me
+
+
+![Profile Photo](big.jpg)
+
+
+## About Me
+
+Currently, I am a PhD candidate in Civil Engineering, specializing in Disaster Prevention, at Harbin Institute of Technology in Harbin, China. Under the guidance of Professor Shuang Li, I am conducting research on seismic resilience methods, with a particular focus on the rapid assessment of structural systems and evacuation strategies. My work involves developing techniques to quickly evaluate the performance of buildings and infrastructure during seismic events. Additionally, I am actively exploring methods to improve evacuation procedures, aiming to enhance the safety and efficiency of evacuating individuals from disaster-prone areas.
+
 
 ## PhD Candidate
 - (Sep. 2022 – now), Civil Engineering (Disaster Prevention)
